@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///ws\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///ds\u003d",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///dw\u003d",
         "filename": "pom.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-05-07T22:54:36Z",
       "side": 1,
       "message": "use https://",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///wo\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///dw\u003d",
       "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///wk\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///d0\u003d",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///d8\u003d",
         "filename": "pom.xml",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2012-05-07T22:54:36Z",
       "side": 1,
       "message": "Use 2.4-rc0-117-g78db1ce it has the PluginCommandModule declared.",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///wg\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///d8\u003d",
       "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///wc\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///d4\u003d",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///do\u003d",
         "filename": "src/com/google/gerrit/plugins/HelloworldCommand.java",
         "patchSetId": 1
@@ -104,6 +194,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///wY\u003d",
+        "filename": "src/com/google/gerrit/plugins/HelloworldCommand.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///do\u003d",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///dk\u003d",
         "filename": "src/com/google/gerrit/plugins/HelloworldCommandModule.java",
         "patchSetId": 1
@@ -115,6 +223,24 @@
       "writtenOn": "2012-05-07T22:54:36Z",
       "side": 1,
       "message": "AOSP copyright header?",
+      "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///wU\u003d",
+        "filename": "src/com/google/gerrit/plugins/HelloworldCommandModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///dk\u003d",
       "revId": "a7658b504b473bc7eb4730ac4e3210154e292c8f",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
