@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///w4\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFT3///tY\u003d",
+      "revId": "7c2a370a28095c3ff7b9a6d49d6196fc1c2db154",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFT3///tU\u003d",
         "filename": "pom.xml",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2012-05-07T23:16:58Z",
       "side": 1,
       "message": "Remove the \u0027: \u0027 outside the xml?",
+      "revId": "7c2a370a28095c3ff7b9a6d49d6196fc1c2db154",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///w0\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-07T23:30:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFT3///tU\u003d",
       "revId": "7c2a370a28095c3ff7b9a6d49d6196fc1c2db154",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
