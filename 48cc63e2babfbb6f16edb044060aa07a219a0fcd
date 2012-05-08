@@ -16,6 +16,24 @@
       "revId": "48cc63e2babfbb6f16edb044060aa07a219a0fcd",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFXn///xw\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1002666
+      },
+      "writtenOn": "2012-05-08T23:34:58Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFXn///0c\u003d",
+      "revId": "48cc63e2babfbb6f16edb044060aa07a219a0fcd",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
