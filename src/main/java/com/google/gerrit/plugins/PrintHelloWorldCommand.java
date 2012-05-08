@@ -17,10 +17,19 @@ package com.google.gerrit.plugins;
 import com.google.gerrit.sshd.BaseCommand;
 
 import org.apache.sshd.server.Environment;
+import org.kohsuke.args4j.Argument;
+import org.kohsuke.args4j.Option;
 
 import java.io.PrintWriter;
 
 public final class PrintHelloWorldCommand extends BaseCommand {
+
+  @Argument(usage = "name of user")
+  private String name = "world";
+
+  @Option(name = "french", usage = "output in French?")
+  private boolean french = false;
+
   @Override
   public void start(final Environment env) {
     startThread(new CommandRunnable() {
@@ -29,7 +38,8 @@ public final class PrintHelloWorldCommand extends BaseCommand {
         parseCommandLine();
 
         final PrintWriter stdout = toPrintWriter(out);
-        stdout.println("Hello world!");
+        final String greeting = (french ? "Bonjour " : "Hello ");
+        stdout.println(greeting + name + "!");
         stdout.flush();
       }
     });
