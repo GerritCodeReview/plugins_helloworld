@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAFXn///7o\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T17:13:18Z",
+      "side": 1,
+      "message": "Version still pending, I have to rebuild everything. :-)",
+      "revId": "8a52fb70fd75130761ca069ee214be3480cbf939",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFXn///70\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T17:13:18Z",
+      "side": 1,
+      "message": "gerrit-plugin-api",
+      "revId": "8a52fb70fd75130761ca069ee214be3480cbf939",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFXn///7w\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T17:13:18Z",
+      "side": 1,
+      "message": "gerrit-api-repository",
+      "revId": "8a52fb70fd75130761ca069ee214be3480cbf939",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFXn///74\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T17:13:18Z",
+      "side": 1,
+      "message": "Use https://gerrit-api.commondatastorage.googleapis.com/snapshot/ for now. We will later flip this to /release/ when we have a release of Gerrit.\n\nThis new build contains a -sources JAR. Whee.",
+      "revId": "8a52fb70fd75130761ca069ee214be3480cbf939",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
