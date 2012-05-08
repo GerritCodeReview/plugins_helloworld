@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAFUH///bc\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T01:08:25Z",
+      "side": 1,
+      "message": "add:\n\n  \u003cproperties\u003e\n    \u003cgerrit-version\u003e2.4-rc0-117-g78db1ce\u003c/gerrit-version\u003e\n  \u003c/properties\u003e",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///cY\u003d",
         "filename": "pom.xml",
         "patchSetId": 4
@@ -13,6 +30,40 @@
       "writtenOn": "2012-05-08T00:22:50Z",
       "side": 1,
       "message": "helloworld (lowercase)?",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUH///bg\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T01:08:25Z",
+      "side": 1,
+      "message": "Add a\n\n  \u003cGerrit-Version\u003e${gerrit-version}\u003c/Gerrit-Version\u003e",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUH///bk\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T01:08:25Z",
+      "side": 1,
+      "message": "${gerrit-version}",
       "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
