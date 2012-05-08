@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAFXn///0c\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T22:27:59Z",
+      "side": 1,
+      "message": "2.4-rc0-136-g7bf1f93",
+      "revId": "48cc63e2babfbb6f16edb044060aa07a219a0fcd",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
