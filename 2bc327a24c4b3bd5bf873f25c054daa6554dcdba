@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///uE\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///bc\u003d",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///cY\u003d",
         "filename": "pom.xml",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2012-05-08T00:22:50Z",
       "side": 1,
       "message": "helloworld (lowercase)?",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///uo\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///cY\u003d",
       "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///uI\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///bg\u003d",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///bk\u003d",
         "filename": "pom.xml",
         "patchSetId": 4
@@ -64,6 +118,24 @@
       "writtenOn": "2012-05-08T01:08:25Z",
       "side": 1,
       "message": "${gerrit-version}",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///uA\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///bk\u003d",
       "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///us\u003d",
+        "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommand.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///cU\u003d",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUX///uU\u003d",
         "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
         "patchSetId": 4
@@ -104,6 +194,24 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///ts\u003d",
+        "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "After discussion with Edwin, we decided to leave it for now.",
+      "parentUuid": "AAAFUX///uU\u003d",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///cQ\u003d",
         "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
         "patchSetId": 4
@@ -115,6 +223,24 @@
       "writtenOn": "2012-05-08T00:22:50Z",
       "side": 1,
       "message": "so our command is \"helloworld helloworld\" ? :-)\n\nmaybe call the subcommand \"print\", and the class \"PrintHelloWorld\"?",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUX///uM\u003d",
+        "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1006454
+      },
+      "writtenOn": "2012-05-08T01:28:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAFUH///cQ\u003d",
       "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
