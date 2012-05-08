@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "AAAFUX///uU\u003d",
+        "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-05-08T01:00:54Z",
+      "side": 1,
+      "message": "How should this method be called?\n\nTo register the command PluginCommandModule.initSshModule(String) is invoked. Should this method be overwritten here?",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAFUH///cQ\u003d",
         "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
         "patchSetId": 4
