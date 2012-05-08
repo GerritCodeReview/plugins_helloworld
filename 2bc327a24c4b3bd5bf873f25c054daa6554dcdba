@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAFUH///cY\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T00:22:50Z",
+      "side": 1,
+      "message": "helloworld (lowercase)?",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUH///cU\u003d",
+        "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommand.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T00:22:50Z",
+      "side": 1,
+      "message": "since we say \"Hello world!\" this should be HelloWorldCommand not HelloworldCommand",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFUH///cQ\u003d",
+        "filename": "src/main/java/com/google/gerrit/plugins/HelloworldCommandModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-08T00:22:50Z",
+      "side": 1,
+      "message": "so our command is \"helloworld helloworld\" ? :-)\n\nmaybe call the subcommand \"print\", and the class \"PrintHelloWorld\"?",
+      "revId": "2bc327a24c4b3bd5bf873f25c054daa6554dcdba",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
