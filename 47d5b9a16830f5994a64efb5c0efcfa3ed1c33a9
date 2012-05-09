@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAFXn///qA\u003d",
+        "filename": "docs/ssh-commands/print.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2012-05-09T20:05:18Z",
+      "side": 1,
+      "message": "[name]\n\nSpecifying a name will have it print \u0027Hello Brad!\u0027 or \u0027Bonjour Brad!\u0027.",
+      "revId": "47d5b9a16830f5994a64efb5c0efcfa3ed1c33a9",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFXn///p8\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1000253
+      },
+      "writtenOn": "2012-05-09T20:05:18Z",
+      "side": 1,
+      "message": "Looking at this - I think it is easier to just put docs in src/main/resources, and then we don\u0027t have to modify the pom.  I don\u0027t care too much either way though.",
+      "revId": "47d5b9a16830f5994a64efb5c0efcfa3ed1c33a9",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
