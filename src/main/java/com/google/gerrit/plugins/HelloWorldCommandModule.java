@@ -14,9 +14,17 @@
 
 package com.google.gerrit.plugins;
 
+import javax.inject.Inject;
+
+import com.google.gerrit.server.plugins.PluginName;
 import com.google.gerrit.sshd.commands.PluginCommandModule;
 
 public class HelloWorldCommandModule extends PluginCommandModule {
+  @Inject
+  HelloWorldCommandModule(@PluginName String name) {
+    super(name);
+  }
+
   public void configureCmds() {
     command("print").to(PrintHelloWorldCommand.class);
   }
