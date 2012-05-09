@@ -34,6 +34,19 @@ limitations under the License.
   </description>
 
   <build>
+    <resources>
+      <resource>
+        <directory>
+          ./
+        </directory>
+        <includes>
+          <include>
+            docs/**/*.md
+          </include>
+        </includes>
+      </resource>
+    </resources>
+
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
