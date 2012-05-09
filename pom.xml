@@ -55,6 +55,9 @@ limitations under the License.
               <Gerrit-Version>${gerrit-version}</Gerrit-Version>
             </manifestEntries>
           </archive>
+          <includes>
+            <include>**/docs/**/*</include>
+          </includes>
         </configuration>
       </plugin>
     </plugins>
