@@ -17,7 +17,7 @@ package com.google.gerrit.plugins;
 import com.google.gerrit.sshd.commands.PluginCommandModule;
 
 public class HelloWorldCommandModule extends PluginCommandModule {
-  public void configureCmds() {
+  public void configureCommands() {
     command("print").to(PrintHelloWorldCommand.class);
   }
 }

@@ -24,7 +24,7 @@ limitations under the License.
   <packaging>jar</packaging>
   <version>0.1</version>
   <properties>
-    <gerrit-version>2.4-rc0-136-g7bf1f93</gerrit-version>
+    <gerrit-version>2.4-rc0-139-gcaccf0f</gerrit-version>
   </properties>
   <name>Hello World Gerrit Plugin</name>
   <url>https://gerrit-review.googlesource.com</url>
