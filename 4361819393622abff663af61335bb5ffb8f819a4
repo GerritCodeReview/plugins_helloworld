@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAFX3//+9k\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-15T19:04:25Z",
+      "side": 1,
+      "message": "FYI, we can remove this, its not used.",
+      "revId": "4361819393622abff663af61335bb5ffb8f819a4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAFbX///vk\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1001240
+      },
+      "writtenOn": "2012-05-15T19:04:25Z",
+      "side": 1,
+      "message": "FYI, I think this is being called Gerrit-ApiVersion now.",
+      "revId": "4361819393622abff663af61335bb5ffb8f819a4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
