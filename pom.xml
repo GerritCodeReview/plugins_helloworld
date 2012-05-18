@@ -53,6 +53,7 @@ limitations under the License.
               <Gerrit-Plugin>helloworld</Gerrit-Plugin>
               <Gerrit-SshModule>com.google.gerrit.plugins.HelloWorldCommandModule</Gerrit-SshModule>
               <Gerrit-Version>${gerrit-version}</Gerrit-Version>
+              <Implementation-Version>${project.version}</Implementation-Version>
             </manifestEntries>
           </archive>
         </configuration>
