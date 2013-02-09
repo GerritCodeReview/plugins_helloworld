@@ -14,6 +14,8 @@
 
 package com.google.gerrit.plugins;
 
+import com.google.gerrit.extensions.annotations.Exports;
+import com.google.gerrit.server.plugins.actions.Action;
 import com.google.gerrit.sshd.PluginCommandModule;
 
 public class HelloWorldCommandModule extends PluginCommandModule {
@@ -21,5 +23,6 @@ public class HelloWorldCommandModule extends PluginCommandModule {
   protected void configureCommands() {
     command(PrintHelloWorldCommand.class);
     alias("say-hello", PrintHelloWorldCommand.class);
+    bind(Action.class).annotatedWith(Exports.named(HelloAction.NAME)).to(HelloAction.class);
   }
 }
