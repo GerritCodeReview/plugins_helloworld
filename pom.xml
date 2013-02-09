@@ -25,7 +25,7 @@ limitations under the License.
   <version>0.1</version>
   <properties>
     <Gerrit-ApiType>plugin</Gerrit-ApiType>
-    <Gerrit-ApiVersion>2.5-SNAPSHOT</Gerrit-ApiVersion>
+    <Gerrit-ApiVersion>2.6-SNAPSHOT</Gerrit-ApiVersion>
   </properties>
 
   <build>
@@ -38,6 +38,7 @@ limitations under the License.
           <archive>
             <manifestEntries>
               <Gerrit-SshModule>com.google.gerrit.plugins.HelloWorldCommandModule</Gerrit-SshModule>
+              <Gerrit-ActionModule>com.google.gerrit.plugins.HelloWorldActionModule</Gerrit-ActionModule>
 
               <Implementation-Vendor>Gerrit Code Review</Implementation-Vendor>
               <Implementation-URL>http://code.google.com/p/gerrit/</Implementation-URL>
