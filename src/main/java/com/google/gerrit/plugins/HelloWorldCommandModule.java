@@ -19,6 +19,7 @@ import com.google.gerrit.sshd.PluginCommandModule;
 public class HelloWorldCommandModule extends PluginCommandModule {
   @Override
   protected void configureCommands() {
-    command("print").to(PrintHelloWorldCommand.class);
+    command(PrintHelloWorldCommand.class);
+    alias("say-hello", PrintHelloWorldCommand.class);
   }
 }
