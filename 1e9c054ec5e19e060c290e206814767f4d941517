@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "Qgz8N50Q",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-03-01T07:13:02Z",
+      "side": 1,
+      "message": "This change should be in a separate commit.\n\nI actually made this change some time ago but it looks like I forgot to commit and upload it :)",
+      "revId": "1e9c054ec5e19e060c290e206814767f4d941517",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
