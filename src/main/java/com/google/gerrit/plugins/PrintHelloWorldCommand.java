@@ -13,13 +13,14 @@
 // limitations under the License.
 
 package com.google.gerrit.plugins;
-
+import com.google.gerrit.extensions.annotations.RequiresCapability;
 import com.google.gerrit.sshd.CommandMetaData;
 import com.google.gerrit.sshd.SshCommand;
 
 import org.kohsuke.args4j.Argument;
 import org.kohsuke.args4j.Option;
 
+@RequiresCapability(PrintHelloCapability.PRINT_HELLO_CAPABILITY)
 @CommandMetaData(name="print", descr="Print greeting in different languages")
 public final class PrintHelloWorldCommand extends SshCommand {
 
