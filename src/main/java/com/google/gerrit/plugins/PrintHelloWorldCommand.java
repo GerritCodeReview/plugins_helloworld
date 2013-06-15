@@ -14,6 +14,8 @@
 
 package com.google.gerrit.plugins;
 
+import static com.google.gerrit.plugins.PrintHelloCapability.PRINT_HELLO_CAPABILITY;
+import com.google.gerrit.extensions.annotations.RequiresCapability;
 import com.google.gerrit.sshd.CommandMetaData;
 import com.google.gerrit.sshd.SshCommand;
 
@@ -21,6 +23,7 @@ import org.kohsuke.args4j.Argument;
 import org.kohsuke.args4j.Option;
 
 @CommandMetaData(name="print", descr="Print greeting in different languages")
+@RequiresCapability(PRINT_HELLO_CAPABILITY)
 public final class PrintHelloWorldCommand extends SshCommand {
 
   @Argument(usage = "name of user")
