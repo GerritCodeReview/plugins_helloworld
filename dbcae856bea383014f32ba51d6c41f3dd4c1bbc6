@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2adb35ae_2924edba",
+        "filename": "pom.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1010015
+      },
+      "writtenOn": "2013-06-26T09:36:28Z",
+      "side": 1,
+      "message": "where is the HelloWorldModule?",
+      "revId": "dbcae856bea383014f32ba51d6c41f3dd4c1bbc6",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
