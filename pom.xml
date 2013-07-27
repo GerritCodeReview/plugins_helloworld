@@ -37,6 +37,7 @@ limitations under the License.
         <configuration>
           <archive>
             <manifestEntries>
+              <Gerrit-HttpModule>com.google.gerrit.plugins.HelloWorldHttpModule</Gerrit-HttpModule>
               <Gerrit-SshModule>com.google.gerrit.plugins.HelloWorldCommandModule</Gerrit-SshModule>
 
               <Implementation-Vendor>Gerrit Code Review</Implementation-Vendor>
