@@ -19,7 +19,7 @@ OPTIONS
 -------
 
 --french
-> Translate to french.
+> Translate to French.
 
 --help
 
@@ -44,11 +44,11 @@ Have the server say hi to the world.
 
 >     $ ssh -p 29418 review.example.com helloworld print
 
-Have the server say hi to the world in french.
+Have the server say hi to the world in French.
 
 >     $ ssh -p 29418 review.example.com helloworld print --french
 
-Have the server say hi to you in french.
+Have the server say hi to you in French.
 
 >     $ ssh -p 29418 review.example.com helloworld print --french \'Revi Ewer\'
 
