@@ -20,7 +20,7 @@ import com.google.gerrit.sshd.SshCommand;
 import org.kohsuke.args4j.Argument;
 import org.kohsuke.args4j.Option;
 
-@CommandMetaData(name="print", descr="Print greeting in different languages")
+@CommandMetaData(name="print", description="Print greeting in different languages")
 public final class PrintHelloWorldCommand extends SshCommand {
 
   @Argument(usage = "name of user")
